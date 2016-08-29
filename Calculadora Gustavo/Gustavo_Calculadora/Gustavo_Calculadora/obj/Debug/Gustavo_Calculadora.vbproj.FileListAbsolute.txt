@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\Calculadora Gustavo\Gustavo_Calculadora\Gustavo_Calculadora\bin\Debug\Gustavo_Calculadora.exe.config
+C:\Users\Alumno\Desktop\Calculadora Gustavo\Gustavo_Calculadora\Gustavo_Calculadora\bin\Debug\Gustavo_Calculadora.exe
+C:\Users\Alumno\Desktop\Calculadora Gustavo\Gustavo_Calculadora\Gustavo_Calculadora\bin\Debug\Gustavo_Calculadora.pdb
+C:\Users\Alumno\Desktop\Calculadora Gustavo\Gustavo_Calculadora\Gustavo_Calculadora\bin\Debug\Gustavo_Calculadora.xml
+C:\Users\Alumno\Desktop\Calculadora Gustavo\Gustavo_Calculadora\Gustavo_Calculadora\obj\Debug\Gustavo_Calculadora.vbprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Calculadora Gustavo\Gustavo_Calculadora\Gustavo_Calculadora\obj\Debug\Gustavo_Calculadora.Form1.resources
+C:\Users\Alumno\Desktop\Calculadora Gustavo\Gustavo_Calculadora\Gustavo_Calculadora\obj\Debug\Gustavo_Calculadora.Resources.resources
+C:\Users\Alumno\Desktop\Calculadora Gustavo\Gustavo_Calculadora\Gustavo_Calculadora\obj\Debug\Gustavo_Calculadora.vbproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\Calculadora Gustavo\Gustavo_Calculadora\Gustavo_Calculadora\obj\Debug\Gustavo_Calculadora.exe
+C:\Users\Alumno\Desktop\Calculadora Gustavo\Gustavo_Calculadora\Gustavo_Calculadora\obj\Debug\Gustavo_Calculadora.xml
+C:\Users\Alumno\Desktop\Calculadora Gustavo\Gustavo_Calculadora\Gustavo_Calculadora\obj\Debug\Gustavo_Calculadora.pdb
